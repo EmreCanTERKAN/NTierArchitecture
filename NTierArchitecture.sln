@@ -5,6 +5,8 @@ VisualStudioVersion = 17.13.35931.197 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTierArchitecture.Entities", "NTierArchitecture.Entities\NTierArchitecture.Entities.csproj", "{9C7275E9-707E-4A66-839F-3288A406218C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTierArchitecture.DataAccess", "NTierArchitecture.DataAccess\NTierArchitecture.DataAccess.csproj", "{511716AA-1A4F-4419-8F19-C13E566BACB8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{9C7275E9-707E-4A66-839F-3288A406218C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C7275E9-707E-4A66-839F-3288A406218C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C7275E9-707E-4A66-839F-3288A406218C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{511716AA-1A4F-4419-8F19-C13E566BACB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{511716AA-1A4F-4419-8F19-C13E566BACB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{511716AA-1A4F-4419-8F19-C13E566BACB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{511716AA-1A4F-4419-8F19-C13E566BACB8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
