@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35931.197 d17.13
+VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTierArchitecture.Entities", "NTierArchitecture.Entities\NTierArchitecture.Entities.csproj", "{9C7275E9-707E-4A66-839F-3288A406218C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTierArchitecture.DataAccess", "NTierArchitecture.DataAccess\NTierArchitecture.DataAccess.csproj", "{511716AA-1A4F-4419-8F19-C13E566BACB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTierArchitecture.Business", "NTierArchitecture.Business\NTierArchitecture.Business.csproj", "{6E32F710-EB42-499C-9F15-F759E30B6AF1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{511716AA-1A4F-4419-8F19-C13E566BACB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{511716AA-1A4F-4419-8F19-C13E566BACB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{511716AA-1A4F-4419-8F19-C13E566BACB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E32F710-EB42-499C-9F15-F759E30B6AF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E32F710-EB42-499C-9F15-F759E30B6AF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E32F710-EB42-499C-9F15-F759E30B6AF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E32F710-EB42-499C-9F15-F759E30B6AF1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
